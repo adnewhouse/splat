@@ -3,6 +3,7 @@
 Splat is a simple data logger/flight computer for hobby-class rockets. 
 
 Current featureset includes:
+- Teensy 4.0 as the main CPU
 - BMP380 Barometer
 - 4x Pyro output channels
 - GPS module
