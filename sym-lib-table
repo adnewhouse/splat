@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name teensy)(type Legacy)(uri C:/git/teensy_library/teensy.lib)(options "")(descr ""))
+  (lib (name splat)(type Legacy)(uri ${KIPRJMOD}/splat.lib)(options "")(descr ""))
+)
