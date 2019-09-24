@@ -63,7 +63,7 @@ AR Path="/5DAC991B" Ref="J?"  Part="1"
 AR Path="/5DAA6729/5DAC991B" Ref="J5"  Part="1" 
 F 0 "J5" H 5180 4592 50  0000 L CNN
 F 1 "PYRO3" H 5180 4501 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 5100 4600 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 5100 4600 50  0001 C CNN
 F 3 "~" H 5100 4600 50  0001 C CNN
 	1    5100 4600
 	1    0    0    -1  
@@ -209,7 +209,7 @@ AR Path="/5D890704" Ref="J?"  Part="1"
 AR Path="/5DAA6729/5D890704" Ref="J4"  Part="1" 
 F 0 "J4" H 5180 2292 50  0000 L CNN
 F 1 "PYRO1" H 5180 2201 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 5100 2300 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 5100 2300 50  0001 C CNN
 F 3 "~" H 5100 2300 50  0001 C CNN
 	1    5100 2300
 	1    0    0    -1  
@@ -355,7 +355,7 @@ AR Path="/5D89BEB0" Ref="J?"  Part="1"
 AR Path="/5DAA6729/5D89BEB0" Ref="J7"  Part="1" 
 F 0 "J7" H 7780 4592 50  0000 L CNN
 F 1 "PYRO4" H 7780 4501 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 7700 4600 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 7700 4600 50  0001 C CNN
 F 3 "~" H 7700 4600 50  0001 C CNN
 	1    7700 4600
 	1    0    0    -1  
@@ -501,7 +501,7 @@ AR Path="/5D89BF19" Ref="J?"  Part="1"
 AR Path="/5DAA6729/5D89BF19" Ref="J6"  Part="1" 
 F 0 "J6" H 7780 2292 50  0000 L CNN
 F 1 "PYRO2" H 7780 2201 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 7700 2300 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 7700 2300 50  0001 C CNN
 F 3 "~" H 7700 2300 50  0001 C CNN
 	1    7700 2300
 	1    0    0    -1  

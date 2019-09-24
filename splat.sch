@@ -110,7 +110,7 @@ U 1 1 5DA78918
 P 2550 850
 F 0 "J2" V 2514 662 50  0000 R CNN
 F 1 "EXT_SW" V 2423 662 50  0000 R CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 2550 850 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 2550 850 50  0001 C CNN
 F 3 "~" H 2550 850 50  0001 C CNN
 	1    2550 850 
 	0    -1   -1   0   
@@ -216,7 +216,7 @@ F 1 "BATT" H 1968 1016 50  0000 C CNN
 F 2 "Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal" H 2050 1250 50  0001 C CNN
 F 3 "~" H 2050 1250 50  0001 C CNN
 	1    2050 1250
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 NoConn ~ 2250 1250
 $Comp
